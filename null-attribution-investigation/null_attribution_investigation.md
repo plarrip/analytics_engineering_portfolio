@@ -1,4 +1,5 @@
-# When "the pipeline is broken" turns out to be a GDPR compliance fix
+# Portfolio Project: Null Attribution Investigation
+## When "the pipeline is broken" turns out to be a GDPR compliance fix
 
 **Role:** Analytics Engineer — large software discovery platform (~50M monthly visits)  
 **Stack:** BigQuery · dbt · GA4 · Consent Mode v2  
