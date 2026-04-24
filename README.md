@@ -6,4 +6,4 @@ A collection of case studies from my work as an Analytics Engineer. Each folder 
 
 | Case | Stack | Description |
 |------|-------|-------------|
-| [null-landing-page-type-analysis](./null-landing-page-type-analysis/) | BigQuery · dbt · GA4 · Consent Mode v2 | Investigating a spike in `landing_page_type = NULL` sessions traced back to a GDPR Consent Mode v2 compliance fix |
+| [null-attribution-investigation](./null-attribution-investigation/) | BigQuery · dbt · GA4 · Consent Mode v2 | Tracing a spike in unattributed (`NULL`) organic sessions back to a GDPR Consent Mode v2 compliance fix |
